@@ -77,8 +77,8 @@ d3 = dict(id=2277, name='Michael', siblings=['Janet', 'Martin', 'Richard'])
 # print(d2['siblings'])
 # print(d2.update(d3))
 # print(d2)
-print(d2[0])
-# print(d1.get((1,2)))
+# print(d2[0])
+print(d1.get((1, 2)))
 # 
 #
 # d2['siblings']*
