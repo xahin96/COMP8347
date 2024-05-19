@@ -27,6 +27,5 @@ if today > christmas_time:
 else:
     print('the number of days left till the next Christmas: ', (christmas_time - today).days)
 
-
 # |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
